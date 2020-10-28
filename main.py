@@ -1,3 +1,4 @@
+#Using Logistic Regression since we need to predict 1 and 0
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
